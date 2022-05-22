@@ -1,0 +1,10 @@
+.Box {
+  display: flex;
+  align-items: center;
+}
+
+.Box-color {
+  margin-left: 1em;
+  margin-top: 1em;
+  margin-right: 0.4em;
+}
